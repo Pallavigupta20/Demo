@@ -2,4 +2,4 @@
 <br> 
 This my first Repo.
 <br>
-Author: Pallavi
+Author: Pallavi Gupta
